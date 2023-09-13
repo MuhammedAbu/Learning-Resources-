@@ -1,4 +1,4 @@
-# Project 0 - Git Guide
+# Git Guide
 
 ## Command line git
 
