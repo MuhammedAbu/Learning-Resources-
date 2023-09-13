@@ -6,7 +6,7 @@
   - Shows statu of the local repository. This status includes:
     - number of local commits that have not been synced with remote (GitHub)
     - list of files in local folder than are NOT being tracked by git
-    - list of files in local folder that have changes that need to be committed
+    - list of files in local folder that have changes that need to be committed 
     - `git status`
 - clone 
   - copies or "clones" a github respository from a url for tracking on a local system. Example: `git clone git@github.com:WSU-dtrump/ceg3120-MuhammedAbu.git`
