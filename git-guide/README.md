@@ -9,7 +9,7 @@
     - list of files in local folder that have changes that need to be committed
     - `git status`
 - clone 
-  - copies or "clones" a github respository from a url for tracking on a local system. Example: `git clone git@github.com:WSU-kduncan/ceg3120-MuhammedAbu.git`
+  - copies or "clones" a github respository from a url for tracking on a local system. Example: `git clone git@github.com:WSU-dtrump/ceg3120-MuhammedAbu.git`
     - must generate ssh key pair using `ssh-keygen -t ed25519 -C "your_email@example.com"` in you local system.  Then copy the pulic key from the folder it was generated into and paste it into your github settings under ssh key pair. 
 - add
   - add a file or folder for tracking. 
@@ -53,7 +53,7 @@ Provide descriptions of expected contents and what these are used for
 
 - .gitignore file
   - should have all the files/folders in your repository that you want to be ignored for tracking. Can ignore all files in a directory using `*` and you can omit         -certain files that would've been ignored using `!`. 
-- ~~.git/hooks~~
+
 
 ## GitHub
 
@@ -63,7 +63,7 @@ Provide basic how-to-use guides for both.  This should be short and sweet so tha
   - Let others knnow what changes/commits used made and that you are ready to merge changes to main. 
 - SSH authentication to repositories
   - must generat ssh key pair using `ssh-keygen -t ed25519 -C "your_email@example.com"` in you local system. Then copy the pulic key from the folder it was generated into and paste it into your github settings under ssh key pair.Then you can use `git clone git-repo-url` to clone onto local system.  
-- ~~Actions~~
+
 
 ## Resources
 Other resources are welcome, just cite them (you can do lazy citations here, or use markdown to make links throughout your guide)
