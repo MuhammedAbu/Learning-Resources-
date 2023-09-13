@@ -50,7 +50,7 @@ Provide descriptions of expected contents and what these are used for
 
 - .git folder
   - Should contain all the information neccasry for your git repo function and opearet properly like metadata, object database, commit log, branch data, etc.
-  - In linux, if you want to remove the link from a locally initialized or cloned git repo to github, you can do so by removing the .git folder located in the root directory of the cloned or initialized repo. Run the command `rm -rf .git` to   recursively remove the folder and its contents. 
+  - In linux, if you want to remove the link from a locally initialized or cloned git repo to github, you can do so by removing the .git folder located in the root directory of the cloned or initialized repo. Run the command `rm -rf .git` to   recursively remove the folder and its contents. This is good for removing nested git repositories from your local system.
 
 - .gitignore file
   - should have all the files/folders in your repository that you want to be ignored for tracking. Can ignore all files in a directory using `*` and you can omit         -certain files that would've been ignored using `!`. 
