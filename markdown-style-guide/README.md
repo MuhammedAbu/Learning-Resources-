@@ -112,4 +112,4 @@ Be careful when using code blocks, they should ***ONLY*** be used for code, and 
 Be careful when using code blocks, they should ***ONLY*** be used for code, and the code should be well spaced or else you get something that looks like this and is mostly unreadable, especially if the answer you are looking for is 42.
 ```
 
-Resource provided by Matthew Edward Kijowski at Wright State University for course CEG3400.
+Resource provided by Matthew Kijowski at Wright State University for course CEG3400.
