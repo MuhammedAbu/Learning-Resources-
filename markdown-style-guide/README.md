@@ -45,7 +45,7 @@ The indentation before the answer allows it to be a part of the same bullet poin
 
 ---
 
-### Bad examples
+### Bad examples:
 
 #### Markdown file contents
 
