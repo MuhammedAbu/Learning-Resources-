@@ -13,7 +13,6 @@ Various MOOCs that offer many courses and certificates.
 
 * https://wheregoes.com/
   * URL Redirect tracker
-  *   
 
 * https://ocw.mit.edu/search/?f=Lecture%20Videos&f=Lecture%20Audio&s=department_course_numbers.sort_coursenum#electrical-engineering-and-computer-science
   * MIT Open Courseware
@@ -26,4 +25,7 @@ Various MOOCs that offer many courses and certificates.
  
  
 * https://authn.edx.org/login?next=%2Fdashboard%3F_gl%3D1%2A17ll7ru%2A_ga%2AMTg2ODE3NjMxOC4xNjk0MjMwMDQ4%2A_ga_D3KS4KMDT0%2AMTY5NTU4OTYyNy42LjAuMTY5NTU4OTYyNy42MC4wLjA.
-  * edx     
+  * edx
+ 
+ - AI learning tools
+   - https://chat.openai.com/ 
