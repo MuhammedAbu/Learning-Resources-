@@ -70,7 +70,7 @@ Provide basic how-to-use guides for both.  This should be short and sweet so tha
 
 ## Resources
 Other resources are welcome, just cite them (you can do lazy citations here, or use markdown to make links throughout your guide)
-
+ 
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - https://learngitbranching.js.org/?locale=en_US - interctive guide
 - https://rogerdudler.github.io/git-guide/ - simple guide
