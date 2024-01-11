@@ -5,19 +5,19 @@
 ## Command line git
 
 - status
-  - Shows statu of the local repository. This status includes:
+  - Shows status of the local repository. This status includes:
     - number of local commits that have not been synced with remote (GitHub)
     - list of files in local folder than are NOT being tracked by git
     - list of files in local folder that have changes that need to be committed 
     - `git status`
 - clone 
-  - copies or "clones" a github respository from a url for tracking on a local system. Example: `git clone git@github.com:WSU-dtrump/ceg3120-MuhammedAbu.git`
+  - Copies or "clones" a github respository from a url for tracking on a local system. Example: `git clone git@github.com:WSU-dtrump/ceg3120-MuhammedAbu.git`
     - must generate ssh key pair using `ssh-keygen -t ed25519 -C "your_email@example.com"` in you local system.  Then copy the pulic key from the folder it was generated into and paste it into your github settings under ssh key pair. 
 - add
-  - add a file or folder for tracking. 
+  - Add a file or folder for tracking. 
   - Example: `git add foo.txt` Furthermore, you can use `git add *` to track all unadded files/folders. 
 - rm
-  - removes a file or folder for tracking.
+  - Removes a file or folder for tracking.
   - Example: `git rm generic-file.txt`
 - commit
   - commits an added file for tracking. Must be done before pushes tracked file to remote (github) repository. Can add an update message.
